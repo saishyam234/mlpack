@@ -1,3 +1,4 @@
+<br>
 <h2 align="center">
   <a href="http://mlpack.org"><img
 src="https://cdn.rawgit.com/mlpack/mlpack.org/e7d36ed8/mlpack-black.svg" style="background-color:rgba(0,0,0,0);" height=230 alt="mlpack: a fast, header-only machine learning library"></a>
